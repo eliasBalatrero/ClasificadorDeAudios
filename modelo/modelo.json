@@ -1,14 +1,14 @@
 {
-    "fmedACFeme": 195.52753184218705,
-    "desvAcFeme": 29.986038638152408,
-    "fmedPCFeme": 199.3466774956258,
-    "desvPCFeme": 33.52282882942847,
-    "nFemeAC": 3,
-    "nFemePC": 3,
-    "fmedACMasc": 119.47438470937337,
-    "desvAcMasc": 11.386149415255716,
-    "fmedPCMasc": 124.66994189114018,
-    "desvPCMasc": 3.157843428238202,
-    "nMascAC": 2,
-    "nMascPC": 2
+    "fmedACFeme": 200.2988993392782,
+    "desvAcFeme": 51.58481529573203,
+    "fmedPCFeme": 211.42251679058634,
+    "desvPCFeme": 48.043494012960814,
+    "nFemeAC": 4,
+    "nFemePC": 4,
+    "fmedACMasc": 141.32486063477845,
+    "desvAcMasc": 12.954558359991708,
+    "fmedPCMasc": 147.87933660153237,
+    "desvPCMasc": 14.898953665574005,
+    "nMascAC": 6,
+    "nMascPC": 6
 }
